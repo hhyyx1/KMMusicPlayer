@@ -65,13 +65,13 @@ const handleKeyDown = (event: KeyboardEvent): void => {
           src="@/assets/gthub-avatar.png"
         />
       </span>
-      <a href="https://github.com/XiangZi7" target="_blank">
+      <a href="https://github.com/hhyyx1" target="_blank">
         <div
           class="flex items-center bg-black text-white gap-1 text-xs p-1 rounded-lg"
         >
           <img
             alt="GitHub User's stars"
-            src="https://img.shields.io/github/stars/XiangZi7?style=flat&logo=github&label=XiangZi&labelColor=%23000&color=%23000"
+            src="https://img.shields.io/github/stars/hhyyx1?style=flat&logo=github&label=hhyyx1&labelColor=%23000&color=%23000"
           />
         </div>
       </a>
